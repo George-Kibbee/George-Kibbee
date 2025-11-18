@@ -14,3 +14,13 @@
     - Github
     - VS Code
     - Google Colab
+## Projects/Repositories
+1. Simple website with a search bar that leads to Google
+   
+    Used HTML, CSS, and JavaScript.
+   
+    [Link](https://github.com/George-Kibbee/ICD2O)
+   
+   In the "Final" Folder
+2. Simple text-based game.
+         Used Python
